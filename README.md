@@ -37,7 +37,7 @@ This dashboard was built to answer a few key questions about people working in (
 ## 📁 Repository Structure
 ├── data/ # Raw survey dataset (CSV/Excel)
 ├── screenshots/ # Exported dashboard images
-├── "C:\Users\mks90\OneDrive\Documents\TableauDataProfessionalSurvey.pbix" # Power BI project file
+├── [DASHBOARD](TableauDataProfessionalSurvey.pbix) # Power BI project file
 └── README.md
 
 

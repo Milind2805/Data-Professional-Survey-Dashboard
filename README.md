@@ -48,7 +48,7 @@ This dashboard was built to answer a few key questions about people working in (
 3. Explore the dashboard using the Gender/Country slicers, or click any chart to cross-filter the rest of the page
 
 ## 📌 Dataset
-"C:\Users\mks90\Downloads\Data_Professional_Survey_Dataset.xlsx"
+Dataset: [Data_Professional_Survey_Dataset.xlsx](data/Data_Professional_Survey_Dataset.xlsx)
 
 ## 📬 Feedback
 

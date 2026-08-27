@@ -3,7 +3,7 @@
 
 An interactive Power BI dashboard analyzing survey responses from 630 data professionals, exploring salary trends, career satisfaction, skill preferences, and demographics across the data industry.
 
-![Dashboard Preview]("C:\Users\mks90\OneDrive\Pictures\Screenshots\Screenshot 2026-08-27 134844.png")
+![Dashboard Preview](Screenshot 2026-08-27 134844.png)
 
 ## 🎯 Project Overview
 

@@ -35,3 +35,25 @@ This dashboard was built to answer a few key questions about people working in (
 - Consistent color theming and layout alignment for a polished, presentation-ready dashboard
 
 ## 📁 Repository Structure
+├── data/ # Raw survey dataset (CSV/Excel)
+├── screenshots/ # Exported dashboard images
+├── "C:\Users\mks90\OneDrive\Documents\TableauDataProfessionalSurvey.pbix" # Power BI project file
+└── README.md
+
+
+## 🚀 How to Use
+
+1. Download `DataProfessionalSurvey.pbix`
+2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+3. Explore the dashboard using the Gender/Country slicers, or click any chart to cross-filter the rest of the page
+
+## 📌 Dataset
+"C:\Users\mks90\Downloads\Data_Professional_Survey_Dataset.xlsx"
+
+## 📬 Feedback
+
+This was a personal project to practice dashboard design, DAX, and data storytelling. Feedback and suggestions are welcome — feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/milind-kumar-singh-a84173382?utm_source=share_via&utm_content=profile&utm_medium=member_android).
+
+---
+**Author:** Milind Kumar Singh
+**Connect:** [LinkedIn](linkedin.com/in/milind-kumar-singh-a84173382) | [GitHub](github.com/Milind2805)
